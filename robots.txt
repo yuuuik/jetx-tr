@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jetx-tr.vercel.app/sitemap.xml
